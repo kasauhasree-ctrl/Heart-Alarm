@@ -1,0 +1,6 @@
+{
+  "name": "HeartAlarm Village Network",
+  "description": "Multi-channel rural cardiac emergency response network and offline first-aid guidance for Tamil Nadu villages.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
